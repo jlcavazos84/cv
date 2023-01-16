@@ -1,0 +1,145 @@
+body {
+  margin: 0px;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  color: #40514E;
+  background-color: #D3D3D3;
+}
+
+h1 {
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  color: #D3D3D3;
+}
+
+h2 {
+  font-size: 2rem;
+  font-family: 'Montserrat', sans-serif;
+  color: #579BB1;
+  padding-bottom: 5px;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #579BB1;
+}
+
+a {
+  color: #D3D3D3;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover{
+  color: #F5F5F5;
+}
+
+p{
+  line-height: 2;
+}
+
+hr{
+  border: dotted #F5F5F5 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 50px auto 50px auto;
+}
+
+.top-container {
+  background-color: #579BB1;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {
+  background-color: #D3D3D3;
+  position: relative;
+  margin: 100px 0px;
+}
+
+.bottom-container {
+  margin: 30px auto 0px auto;
+  background-color: #579BB1;
+  /* background-color: #ECE8DD; */
+  position: relative;
+  padding: 50px 0 20px;
+}
+
+.bottom-bird {
+  position: absolute;
+  left: 250px;
+  bottom: 300px;
+  width: 10%;
+}
+
+.top-bird {
+  position: absolute;
+  right: 300px;
+  top: 40px;
+  width: 10%;
+}
+
+.profile-image {
+  width: 10%;
+}
+
+.code-icon {
+  width: 15%;
+  float: left;
+  margin-right: 30px;
+}
+
+.gamepad-icon {
+  width: 15%;
+  float: right;
+  margin-left: 30px;
+}
+
+.my-subtitle {
+  color: #D3D3D3;
+}
+
+.skill-row{
+  width: 50%;
+  margin: 100px auto 200px auto;
+  text-align: left;
+}
+
+.btn {
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: 'Merriweather', serif;
+  color: #ffffff;
+  font-size: 20px;
+  background: #579BB1;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #6db3c9;
+  text-decoration: none;
+}
+
+.intro{
+  width: 30%;
+  margin: auto;
+}
+
+.contact-message{
+  width: 40%;
+  margin: 40px auto 60px;
+}
+
+.copyright{
+  color: #D3D3D3;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
+
+.anchor-gif{
+  width: 15%;
+}
