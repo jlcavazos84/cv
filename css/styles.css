@@ -97,6 +97,24 @@ hr{
   margin-left: 30px;
 }
 
+.luna-pic{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.millie-pic{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.diploma-icon{
+  width: 15%;
+  float: left;
+  margin-right: 30px;
+}
+
 .my-subtitle {
   color: #D3D3D3;
 }
